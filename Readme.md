@@ -68,5 +68,4 @@ graph TD
     C -- Interacts With --> G
     L -- Implements --> G
     K -- Manages --> H
-        H -- Raises --> J
-    ```
+    H -- Raises --> J
